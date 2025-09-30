@@ -1,0 +1,12 @@
+name: ZenitLink
+version: 1.0
+main: de.zenit.main.Main
+author: ZenitNetzwerk
+
+commands: 
+   link: 
+      description: Verifiziere dich mit /link  <token>!
+   accountinfo: 
+      description: 
+   anleitung:
+      description:

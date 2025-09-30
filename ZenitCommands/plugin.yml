@@ -1,0 +1,13 @@
+name: ZenitCommands
+version: 1.0
+main: de.undermain.zenitcommands.main.Main
+
+commands:
+   crates:
+      description: Crates-Hilfe
+   giveall:
+      description: GiveAll Commmand
+   addcoins:
+      description: addcoins
+   coins:
+      description: coins

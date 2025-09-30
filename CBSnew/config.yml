@@ -1,0 +1,3 @@
+#Citybuild System by UnderMain / Zenit-Netwzerk Version 1.0  
+TablistHeader: "§f\n §7§l« §6§lZenit§7§lNetzwerk »\n \n §eWillkommen, §a" + p.getName() + " §7auf Zenit! \n §f"
+TablistFooter: "§f \n §eErlebe CityBuild in neuer Art und Weise! \n §f"

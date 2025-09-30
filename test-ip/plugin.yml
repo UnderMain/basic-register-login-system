@@ -1,0 +1,33 @@
+name: UFC
+main: de.undermain.main.Main
+author: undermain.de
+description: utilities for citybuild
+version: 1.1
+
+commands:
+    lizenzinfo:
+      description: infos der lizenz
+    c:
+      description: creative mode
+    s:
+      description: survival mode
+    item:
+      description: item meta
+    cc:
+      description: chatclear
+    heal:
+      description: heal
+    sign:
+      description: sign
+    debug:
+      description: debug
+    signdel:
+      description: signdel
+    setspawn:
+      description: spawn
+    spawn:
+      description: spawn
+    ufc:
+      description: ufc
+    ontime:
+      description: ontime

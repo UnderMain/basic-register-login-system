@@ -1,0 +1,7 @@
+name: ZenitSign
+author: ZenitNetzwerk
+version: 1.0
+main: de.sign.SignPlugin
+
+commands:
+  sign:

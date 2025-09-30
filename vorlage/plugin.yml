@@ -1,0 +1,4 @@
+name: BungeePerms
+version: 1.1.0
+main: cloud.evaped.bungeeperms.main.BungeePermsPlugin
+author: evaped

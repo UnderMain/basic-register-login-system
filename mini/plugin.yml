@@ -1,0 +1,10 @@
+name: MinigamesTemplate
+author: byCode & OnlyKev
+main: de.onlycode.TemplateMain
+version: 0.1
+commands:
+  setdm:
+  setlobby:
+  setspawn:
+  start:
+  stats:

@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+C:\Users\desch\OneDrive\Dokumente\CoinsAPI\.metadata\.plugins\org.eclipse.jdt.core

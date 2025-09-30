@@ -1,0 +1,6 @@
+name: Scoreboard
+version: 1.0
+author: UnderMain
+main: de.undermain.main.Main
+
+commands:

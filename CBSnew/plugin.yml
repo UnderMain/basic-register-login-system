@@ -1,0 +1,16 @@
+name: CityBuild-System
+author: UnderMain
+version: 1.0
+main: de.undermain.cb.main.Main
+commands:
+   coins:
+   gamemode:
+     aliases: [gm]
+   giveall: 
+   tp: 
+   spawn:
+   setspawn:
+   warp:
+   setwarp:
+     aliases: [createwarp]
+   fly:
