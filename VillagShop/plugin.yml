@@ -1,9 +1,0 @@
-name: Villager-Shop
-version: 1.0
-main: de.undermain.shop.main.Main
-
-commands:
-   shop:
-      description: shop
-   coins:
-      description: coins

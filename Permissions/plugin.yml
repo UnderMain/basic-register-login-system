@@ -1,9 +1,0 @@
-name: Permissions
-author: TuronMC
-version: 1.0
-main: turonmc.perms.Main
-
-commands:
-  user:
-  group:
-  perm:

@@ -1,9 +1,0 @@
-name: ZenitLink
-version: 1.0
-main: de.undermain.main.Main
-
-commands: 
-   link:
-      description: 
-
-   

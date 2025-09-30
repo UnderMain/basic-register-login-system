@@ -1,9 +1,0 @@
-name: Ticket-System
-version: 1.0
-main: de.undermain.main.Main
-
-commands: 
-   ticket:
-      description: 
-
-   

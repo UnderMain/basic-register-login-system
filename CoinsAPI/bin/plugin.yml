@@ -1,7 +1,0 @@
-name: CoinsAPI-Key
-version: 1.0
-main: me.daniel.Coins.Main
-author: Daniel
-
-commands:
-   coins:

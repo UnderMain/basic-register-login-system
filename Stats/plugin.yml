@@ -1,8 +1,0 @@
-name: STATS
-main: de.stats.undermain.Main.Main
-author: undermain.de
-description: stats
-version: 1.1
-
-commands:
-    coins:
